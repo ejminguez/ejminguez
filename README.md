@@ -1,5 +1,5 @@
 <h1>Hellooooo 🫶</h1>
-I am <strong>Errol</strong>, an aspiring UI/UX and front-end dev.
+I am <strong>Errol</strong>, an aspiring dev hekhok.
 <p>BS Computer Science - UP MINDANAO🌻</p>
 
 ##
