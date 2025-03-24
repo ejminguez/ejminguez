@@ -9,7 +9,7 @@ I am <strong>Errol</strong>, an aspiring UI/UX and front-end dev.
 <div>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nextjs,vite,react,sass,tailwind,figma,ps" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nextjs,vite,react,sass,tailwind,figma,ps,vue" />
     </a>
   </p>
 </div>
