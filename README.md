@@ -9,7 +9,7 @@ I am <strong>Errol</strong>, an aspiring dev hekhok.
 <div>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nextjs,vite,react,sass,tailwind,figma,ps,vue,appwrite,fastapi,git,neovim,pinia,supabase" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nextjs,vite,react,tailwind,figma,ps,vue,appwrite,fastapi,git,neovim,pinia,supabase" />
     </a>
   </p>
 </div>
