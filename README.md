@@ -19,5 +19,6 @@ I am <strong>Errol</strong>, an aspiring dev hekhok.
 errolJames59/errolJames59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejminguez&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ejminguez&theme=prussian&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejminguez&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ejminguez&theme=gruvbox)](https://git.io/streak-stats)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejminguez&layout=compact&langs_count=8&theme=gruvbox)
