@@ -1,5 +1,5 @@
 <h1>Hellooooo 🫶</h1>
-I am <strong>Errol</strong>, an aspiring dev hekhok.
+I am <strong>Errol</strong>, an aspiring fullstack dev.
 <p>BS Computer Science - UP MINDANAO🌻</p>
 
 ##
