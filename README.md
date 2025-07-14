@@ -9,7 +9,7 @@ I am <strong>Errol</strong>, an aspiring fullstack dev.
 <div>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nextjs,vite,react,tailwind,figma,ps,vue,appwrite,fastapi,git,neovim,pinia,supabase,aws,linux" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,vite,react,tailwind,figma,ps,vue,appwrite,fastapi,git,neovim,pinia,supabase,aws,linux" />
     </a>
   </p>
 </div>
